@@ -1,7 +1,7 @@
 // get category attributes [name, ID] from "Category" dropdown list from the path Defition > Search > Feature > Values
 
 var container = document.getElementById("search_catid");
-var element = container.querySelectorAll("option")
+var element = container.querySelectorAll("option");
 var catAttributesList = [];
 
 function getCatAttributes() {
