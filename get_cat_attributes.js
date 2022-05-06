@@ -7,8 +7,8 @@ const catAttributesList = [];
 function getCatAttributes() {
   for (var i = 1; i < element.length; i++) {
     catAttributesList.push(`${element[i].innerHTML.slice(0, -2)} [${element[i].value}]`);
-  }
+  };
   console.log(catAttributesList.join("\n"));
-}
+};
 
 getCatAttributes();

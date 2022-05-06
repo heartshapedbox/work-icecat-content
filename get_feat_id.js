@@ -11,4 +11,4 @@ function get_feat_id(cat_feat_id) {
   };
 };
 
-get_feat_id(cat_feat_id)
+get_feat_id(cat_feat_id);
