@@ -3,4 +3,4 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/heartshapedbox/work-icecat-content?color=5955E8&logo=github)
 
 ### Scripts for content
-Set of scripts to help you to get some content from webpage
+Set of scripts to help you to get some content from a webpage
