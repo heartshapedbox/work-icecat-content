@@ -12,7 +12,7 @@ function getCatAttributes() {
     const elementID = element[i].getAttribute("href").split("=")[2].split(";tmpl")[0];
     catAttributesList.push(`${tempList[i][tempList[i].length - 2]} [${elementID}]`);
   };
-  catAttributesList.sort()
+  catAttributesList.sort();
   console.log(catAttributesList.join("\n"));
 };
 
