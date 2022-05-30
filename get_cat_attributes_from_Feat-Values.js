@@ -1,4 +1,5 @@
-// get category attributes [name, ID] from "Category" dropdown-list target-element from the path Defition > Search > Feature > Values
+// get category attributes [name, ID] from "Category" dropdown-list
+// path Defition > Search > Feature > Values
 
 const container = document.getElementById("search_catid");
 const element = container.querySelectorAll("option");

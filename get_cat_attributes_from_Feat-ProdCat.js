@@ -1,4 +1,5 @@
-// get category attributes [name, ID] from "Category" dropdown-list target-element from the path Defition > Search > Feature > Products/Categories
+// get category attributes [name, ID] from "Products/Categories" page
+// the path Defition > Search > Feature > Products/Categories
 
 const element = document.getElementsByClassName("linkmenu2");
 const tempList = [];

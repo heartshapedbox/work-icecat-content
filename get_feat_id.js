@@ -1,4 +1,5 @@
-// get origin feature id by its category_feature_id from the path Defition > Search > Category > Specs
+// get origin feature id by its category_feature_id
+// path Defition > Search > Category > Specs
 
 const container = document.getElementsByClassName("main info_bold");
 

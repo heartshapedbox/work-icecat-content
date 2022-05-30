@@ -1,5 +1,4 @@
 // get products MPN from "push me to see my products" overlay-balloon for "Y" value only:
-//
 // for feature with "Y/N" input type
 // path: Defition > Search > Feature > Values
 // no need to click "?" to get overlay-balloon visible
