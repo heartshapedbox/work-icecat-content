@@ -1,4 +1,8 @@
-// get products attribute [MPN] from "push me to see my products" overlay-baloon target-element from the path Defition > Search > Feature > Values
+// get products MPN from "push me to see my products" overlay-balloon:
+//
+// for feature with any input type
+// path: Defition > Search > Feature > Values
+// click "?" to get overlay-balloon visible
 
 document.getElementsByClassName('divajax')[0].click();
 
