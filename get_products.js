@@ -1,4 +1,5 @@
 // get products attribute [MPN] from "push me to see my products" overlay-baloon target-element from the path Defition > Search > Feature > Values
+
 document.getElementsByClassName('divajax')[0].click();
 
 function getMPN() {
