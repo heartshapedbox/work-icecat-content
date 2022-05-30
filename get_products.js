@@ -11,7 +11,6 @@ function getMPN() {
   console.log(products.join("\n"));
 };
 
-
 function process() {
   setTimeout(getMPN, 10000);
 }
