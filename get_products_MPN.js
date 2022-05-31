@@ -16,7 +16,7 @@ function getMPN() {
 };
 
 function process() {
-  setTimeout(getMPN, 10000);
+  setTimeout(getMPN, 3000);
 }
 
 process();

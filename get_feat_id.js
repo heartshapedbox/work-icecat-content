@@ -3,13 +3,13 @@
 
 const container = document.getElementsByClassName("main info_bold");
 
-function get_feat_id(cat_feat_id) {
+function getFeatID(catFeatID) {
   for (var i = 0; i < container.length; i++) {
-    if (container[i].innerHTML == cat_feat_id) {
-      var feat_id = container[i + 9].innerHTML.split("=")[4].split(";")[0];
-      console.log(`Origin (global) feature ID: ${feat_id}`);
+    if (container[i].innerHTML == catFeatID) {
+      var featID = container[i + 9].innerHTML.split("=")[4].split(";")[0];
+      console.log(`Origin (global) feature ID: ${featID}`);
     };
   };
 };
 
-get_feat_id(cat_feat_id);
+getFeatID(catFeatID);
