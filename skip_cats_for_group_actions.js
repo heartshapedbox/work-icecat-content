@@ -7,7 +7,7 @@ function skipCatIDs(catID) {
   for (var i = 0; i < element.length; i++) {
     if (element[i].getAttribute("catid") == catID) {
       element[i].selected = false;
-    };
+    }
     else {
       element[i].selected = true;
     };
